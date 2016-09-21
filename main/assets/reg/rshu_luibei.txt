@@ -1,0 +1,90 @@
+﻿Liú Bèi 刘备
+Translated description:
+"The ambitious leader in tumultuous times 乱世的枭雄 (luàn shì dè xiāo xióng)"
+
+Who is he:
+The "good" guy. Liu Bei is the founding ruler of the Kingdom of Shu Han 蜀汉 during the Three Kingdoms Era. The impression of Liu Bei amongst people today depends on which side of the fence they are on. If they are fans of Shu Han and its chivalry, they would say Liu Bei was a benevolent leader, well-loved by his people. If they are not fans of Shu Han, they would say he was too soft and too kind. Either way, the fact is that you cannot possibly know Romance of the Three Kingdoms without knowing Liu Bei.
+
+Character ability 1: "Benevolence 仁德 (rén dé) "
+You can give any amount of on-hand cards to any amount of players in his turn. If the total number of cards given away is 2 or more, you regain 1 unit of health.
+
+
+Character ability 2: [Ruler Ability] "Rouse 激将 (jī jiàng)"
+You can ask any Shu 蜀 character that is in play to use an ATTACK 杀 card for you.
+
+(The attack is considered as being "used" by Liu Bei even though the card itself comes from another player. This means the attack properties such as range and element is based on Liu Bei, not the player that issued the card. Of course, Shu characters in play can choose not to use an ATTACK card for him.)
+
+Ability's relation to Story:
+Liu Bei is regarded as the benevolent leader in Romance of the Three Kingdoms, usually generous and kind to his followers. The ability to give cards to any player mirrors Liu Bei's generosity.
+
+Matching weapon: "Gender Double Swords 雌雄双股剑 (cí xióng shuāng gǔ jiàn)"
+Liu Bei's actual weapon in Romance of the Three Kingdoms is a "pair of ancient swords 双股剑" and does not have anything to do with gender. The word "gender 雌雄" was added by the game makers so as to give this weapon its gender specific ability.
+
+Additional info based on Story:
+1. Most famous achievement - Built up the Kingdom of Shu Han despite humble beginnings as a straw-weaver.
+
+2. Cause of death - Official records is due to dysentery, though the legend goes that he fell sick due to despair and regret for his massive loss at the Battle of Yiling 夷陵之战. Prior to that battle, Liu Bei launched a massive attack on the Kingdom of Sun Wu 孙吴 against Zhu Ge Liang 诸葛亮's advice to avenge the death of his sworn brothers Guan Yu 关羽 and Zhang Fei 张飞. Liu Bei was eventually defeated by Lu Xun 陆逊 and loss nearly all of Shu Han's generals.
+
+Wikipedia links:
+* Liu Bei Wiki
+* Battle of Yiling 夷陵之战
+
+
+Tactics: [By Jonkow]
+Ruler (A)
+Liu Bei is a fantastic ruler character(duh, he is after all a ruler-type character...) Anyway, with the "Benevolence" he becomes more resilient and harder to kill since he can easily heal 1 hp every turn and after he identifies his allies and enemies he is basically in control of the whole game. Even if his allies are not "shu" members, he can easily make use and abuse the fact that he can simply give the cards he drew to his allies to get them to use it on his behalf and simultaneously heal 1 hp making it both difficult to kill him and also difficult to kill his allies. With his "Rouse" abiliy, he can just ask his "ATTACK" allies to use " ATTACK " for him. If you don't understand how awfully overpowering this ability is, you can just imagine him getting Huang Zhong, Guan Yu, Ma Chao, Zhao Yun, Ma Dai and Zhu Rong to use " ATTACK " for him.
+PS. If one of your enemies happen to be Zhuge Liang with the "empty city" skill just give him a non-"ATTACK" card and watch his face contort into a mix of both horror and disgust...
+
+Loyalist (A-)
+Incredible-but-not-as-awesome-as-ruler. He can do the same as above, just give cards to your "Ruler" and viola! you get a tough loyalist+ruler combo, however its not very wise to get the ruler to do your dirty job for you since its the "Loyalist's" job to get his hands dirty anyway. =)
+
+Rebel (B)
+Since we have already established that Liu Bei is a support character i shall not bore you with the details about how he can support. Basically the same formula as above.
+
+Defector (B-)
+Now, Liu Bei in my opinion is a REALLY fun defector character to use. Before you are discovered, you can give players some useless cards to make them think you are their ally while healing yourself when you are attacked. But what if you are discovered? No fear, ya can just "bribe" the losing side since Liu Bei is such an awesome support character and everybody loves Liu Bei. However, take extra caution to maintain the balance of the game since if the game starts getting loopsided, you are sure to be the first to die... But nontheless its still incredibly fun to play as a Liu Bei defector.
+
+
+FAQ and Disambiguation:
+
+
+''Benevolence''
+1. Can Liu Bei choose not to increase health after giving 2 cards or more?
+Ans: No.
+
+2. Can the receiving player refuse to accept the cards?
+Ans: No.
+
+''Rouse''
+1. If a Shu Character uses an ATTACK in response to Liu Bei's  ''Rouse'' who suffers the penalty of retaliation or receives the rewards for a kill? The Shu Character who used the ATTACK, or Liu Bei?
+Ans:  Liu Bei . He is the source of the attack and will receive all the penalties/rewards.
+
+2. If no player responds, can Liu Bei still use an ATTACK card ?
+Ans: Yes if he has not used any ATTACK  prior to using ''Rouse''.
+
+3. If no player responds, can Liu Bei change a different target player and use ''Rouse'' again?
+Ans: Yes.
+
+4. If no player responds, can Liu Bei use ''Benovelence'' to give other players cards before using ''Rouse'' again?
+Ans: Yes.
+
+5. Is there a limit to the number of times this ability can be used in a turn?
+Ans: It depends. As long as an ATTACK card has not been used in Liu Bei's turn to attack another player, ''Rouse'' can be used repeatedly.
+
+6. Can the ATTACK used by a Shu Character (in response to ''Rouse'') carry that character's ability attributes? Eg. Can Ma Chao use ''Iron Calvary '' with his ATTACK?
+Ans: It depends on the ability. ''Rouse'' only allows the character to use ATTACK on behalf of Liu Bei. Guan Yu and Zhao Yun can use their abilities to produce an ATTACK card but Ma Chao's ''Iron Calvary'' ability occurs on top of producing the ATATCK card and is therefore not allowed .
+
+7. Can the Shu Character use his weapon attributes when he uses ATTACK?
+Ans: Only ''Serpent Halbert'' attribute is allowed since it only involves producing an ATTACK. All other weapon ability's that add-on to the ATTACK is not allowed.
+
+8. Will Liu Bei's weapon attributes be effective when another Shu Character responds to ''Rouse''?
+Ans: Yes, as long as it fullfils the ability criteria . Eg: ''Heaven Scorcher Halbert'' ability cannot be used since it is not Liu Bei's card that is used.
+
+9. If Liu Bei equipped ''Serpent Halbert'' , can a Shu Character use any 2 characters as an ATTACK?
+Ans: No. The ATTACK card needs to be produced by the character. Remember that producing the ATTACK card is not the same as the weapon ability. (I know its a little confusing)
+
+10. After a Shu Character uses ATTACK in response , can Liu Bei still use an ATTACK card himself  in that turn?
+Ans: No. The ATTACK card by the character is considered used on behalf on Liu Bei , so it counts as Liu Bei having already used an ATTACK card in his turn.
+
+11. Can Liu Bei give away the equipped cards?
+Ans: No. He can only give his on-hand cards.

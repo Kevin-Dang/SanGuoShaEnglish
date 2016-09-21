@@ -1,0 +1,91 @@
+﻿Elder Zhūgě Liàng 暮年诸葛亮
+Translated description:
+"Prime minister who has passed his prime 迟暮的丞相 (chí mù dè chéng xiàng)"
+
+
+Who is he:
+The star of the show, but definitely not the star of the card game. In this San Guo Sha 三国杀 card game there are not 1, not 2, but 3 Zhu Ge Liang to choose from. This elder version is the most subdued and the least god-like. The other 2 are just simply unfairly powerful. Just in case you do not know who Zhu Ge Liang is, he is the military strategist cum intellect extraordinaire to Liu Bei 刘备 and the Kingdom of Shu Han 蜀汉. There is just TOO MUCH to read about Zhu Ge Liang, and i'll leave that to your own reading on Wikipedia.
+
+Character ability 1: "Star Gazing 观星 (guān xīng)"
+At the beginning of your turn, you can view X number of cards from the top of the deck (X equals to the number of players still in play with X having maximum of 5). Of these X cards, you can choose any number of cards to place at the top or at the bottom of the pile. You can also rearrange the order of the cards.
+
+
+Character ability 2: "Empty City 空城 (kōng chéng)" [Enforced ability]
+When you have no cards on hand, you cannot become the target of ATTACK 杀 or DUEL 决斗.
+
+
+Ability's relation to story:
+In Romance of the Three Kingdoms, Zhu Ge Liang is given almost god-like powers that can predict the changes in weather, accurate to within the day that wind directions change. He is able to make these predictions from his knowledge of reading the stars, thus the game ability to "predict" what cards are coming up next with his "Star Gazing" ability. Ok so its outright manipulation of the cards coming up next, but heck might as well dramatize it more!
+
+The "Empty City" ability comes from the famous ploy he uses to fool Si Ma Yi 司马懿. As all his troops have been sent out in missions, he was unable to defend himself from Si Ma Yi's attack of his current location (Xi Cheng 西城). In classical reverse psychology, Zhu Ge Liang empties the city, opens the city gates wide to welcome the invaders, and calmly plays the zither atop the gate in full view of the enemy. Si Ma Yi suspects an ambush and thus retreats. To replicate that effect, the game makers gave the player using Elder Zhu Ge Liang unsusceptibility to ATTACK and DUEL when the player has no more cards left to defend himself or herself.
+
+Additional info based on story:
+1. Most famous achievement - Borrowing arrows with straw boats? There really isn't ONE famous achievement because he has so many!
+
+2. Cause of death - During a ritual ceremony to extend his life (no kidding!), Wei Yan 魏延 barges in and disturbs Zhu Ge Liang. He dies soon after from the effects of the disturbance.
+
+Wikipedia link:
+* Zhu Ge Liang Wiki
+* Empty City Ruse 空城计
+
+Tactics [By JonKow]:
+Ruler (B+)
+(Elder) Zhuge Liang in my opinion is a pretty normal ruler character, there isn’t really any added bonus when he is the ruler except for the fact that “Empty city” makes him pretty much difficult to kill. With the rattan armour addition he is basically invulnerable to all attacks except “lightning” and character effect damages. Being difficult-as-hell-to-kill just makes him an awesome character for all roles and not just as a ruler. The “Star Gazing” ability gives Zhuge Liang the ability to control the cards he draws as well as probably the next player’s cards. As usual this ability is incredible and every role would benefit from it.
+
+Loyalist (B+)
+Well if your ruler is your “next” player, he is in for a treat, you can support your ruler by giving him the best cards via “Star Gazing” Well, like the above, nothing special.
+
+Rebel (B)
+Now Zhuge Liang is not a very good rebel character to play. You might think that “hey, Zhuge Liang is so difficult to kill, he must be overpowered!” Well the way I see it, the rebels are generally easy to identify in a game, having a difficult to kill character would only induce your enemies to kill your allies, as much as you being able to assist them while being difficult-to-kill seems like a good idea, your allies might not be able to survive the heat and would soon be defeated leaving you facing whatever is left of your enemies. The lack of offensive abilities makes Zhuge Liang not very suitable for the role of a rebel.
+
+Defector (B)
+As much as how I like to play as a defector, and how awesome Zhuge Liang is, I can’t really say that he is a good defector, yes he is good support, he is difficult to kill, but there isn’t really much of a game when he is the last player left. I mean seriously, how much can you do when your star gazing is only limited to 2 cards and you have simply no offensive abilities.
+
+FAQ and Disambiguation:
+
+
+Star Gazing
+1. Which comes first? "Star Gazing" ability or Judgement?
+
+Ans: The ability comes first. Therefore Zhu Ge Liang is able to manipulate the judgement card to his favor.
+
+
+2. Can he place all the cards that were gazed at the bottom of the deck, and not leave any at the top?
+
+Ans: Yes.
+
+
+3. Can this ability still apply when it is a 1-on-1 situation?
+
+Ans: Yes. He can still gaze 2 cards, rearrange them, or place them at the bottom if he chooses.
+
+
+Empty City
+1. When Zhu Ge Liang has no more on-hand cards, can he be targeted for Diao Chan 貂蝉's "Seed of Animosity 离间" ability?
+
+[Updated 2nd Feb 2011] Ans: No. He cannot be targeted for Duel even if it is Diao Chan's ability.
+
+
+2. During the midst of a DUEL, if Zhu Ge Liang runs out of on-hand cards, does the "Empty City" ability activate?
+
+Ans: No. "Empty City" means he cannot be the target of DUEL or ATTACK. During DUEL, the card has already been activated, thus the DUEL goes on even if Zhu Ge Liang has no more cards on-hand. If he is unable to produce another ATTACK in the midst of the DUEL, he receives damage.
+
+
+3. Does RAINING ARROWS 万箭齐发, BARBARIANS 南蛮入侵 or tool cards other than DUEL have an effect on Zhu Ge Liang when he has no on-hand cards?
+
+Ans: Yes. "Empty City" only prevents ATTACK and DUEL. Other tool cards are still effective.
+
+
+4. Say a player equips "Green Dragon Crescent Blade 青龙偃月刀" and attacks Zhu Ge Liang, who has only 1 DODGE on-hand. After 1 ATTACK, Zhu Ge Liang uses his DODGE and no longer has anymore on-hand cards, but the weapon ability states that another ATTACK can be use if the previous was dodged. So can the second ATTACK be used on Zhu Ge Liang?
+
+Ans: No. A second ATTACK card is executed after Zhu Ge Liang has activated his "Empty City" ability, therefore Zhu Ge Liang cannot be targeted for the second attack.
+
+
+5. If he has no card in hand and has Rattan Armor equipped, is he completely immune to all damage?
+
+Ans: No. If someone were to shackle him then channel damage across, his will still suffer damage
+
+
+6. Is it possible for Zhu Ge Liang to blacken all the cards at the bottom of the deck for Zhen Ji using his Star Gazing ability?
+
+Ans: Yes it is. But you will need to consider number of players and characters that can increase draw rate(such as Guo Jia and Xun Yu). It is not easy, but possible.

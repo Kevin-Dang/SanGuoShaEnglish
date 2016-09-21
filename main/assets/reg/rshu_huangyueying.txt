@@ -1,0 +1,36 @@
+﻿Huáng Yuè Yīng 黄月英
+Translated description:
+"Veiled heroine 归隐的侠女 (guī yǐn dè xiá nǚ)"
+
+Wikipedia link: Huang Yue Ying Wiki
+
+
+Who is she:
+The wife of Zhu Ge Liang 诸葛亮, Huang Yue Ying is a minor character in Romance of the Three Kingdoms. Apparently the name Huang Yue Ying may be a fictional one altogether since no historical records exists of Zhu Ge Liang's wife's real name. Some say she is even smarter than Zhu Ge Liang, but most would agree she is usually remembered for being ugly. So ugly, in fact, that she hid her face behind veils under the shadow of moonlight. In the card game, Huang Yue Ying is one of the most popular characters to use. She can be deadly when luck runs in her favour, and the odds usually side her since all she needs are tool cards.
+
+Character ability 1: "Assembling Wisdom 集智 (jí zhì)"
+Everytime you use a tool card (except time-delay tool cards), you can immediately draw another card from the deck.
+
+(This is valid even if the tool card is used outside of that player's turn (such as when NEGATE 无懈可击 is used). This is the ability that makes her very deadly. When Huang Yue Ying has a hand-full of tool cards, her turn seemingly never ends. Although she can only ATTACK 杀 once, tools can be used without restriction. She can draw 3 cards when she uses DRAW2 无中生有.)
+
+Special note about her skill "Assembling Wisdom" when using IRON SHACKLES 铁索连环. When the card is played as "RE-DRAW 重铸", Huang Yue Ying cannot draw take 2 cards instead of 1 from the deck. This is because "RE-DRAW" is not considered using the card, but simply exchanging it for another. This information is acquired from the official game forum, though the post is all in Chinese. Click here to visit the post.
+
+Character ability 2: "Genius 奇才 (qí cái)"
+There is no range restriction on all your tool cards.
+
+(This means she can use STEAL 顺手牵羊 and RATIONS DEPLETED 兵粮寸断 on any character in play.)
+
+Ability's relation to story:
+Both of her abilities are based on her superior intellect. Exactly how smart is she? *shrug* There does not seem to be any parallel of her character abilities in the story though. 
+
+Additional info based on story:
+1. Most famous achievement - Getting herself married to Zhu Ge Liang?! Since the story goes that she is ugly as heck, that is quite an accomplishment don't you think? Like I mentioned, Huang Yue Ying is usually remembered for hiding her face behind veils to conceal her hideousness to potential suitors.
+
+2. Cause of death - Wikipedia says she died after the Battle of Wu Zhang 五丈原之战. I'm not all too familiar with this one. Any corrections and contributions appreciated! Leave me a comment!
+
+
+FAQ and Disambiguation:
+
+1. Does stealing/dismantling Huang Yue Ying's cards let her draw a new card?
+
+Ans: No it does not. She only gets to draw a new card if she is the user of the tool card ( ie: when she is the one using STEAL or Dismantle) . But if other players use tool cards on her, she cannot draw another card.

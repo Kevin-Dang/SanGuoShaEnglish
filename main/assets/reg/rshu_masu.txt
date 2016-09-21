@@ -1,0 +1,25 @@
+﻿Mǎ Sù 马谡
+
+Translated Description:
+The Conceited Talent 怀才自负(huái cái zì fù)
+
+Who is he:
+Imagine having to sent your good friend to the gallows. That was how Zhu Ge Liang 诸葛亮 must have felt when he ordered the beheading of his good friend, Ma Su. Throughout most of his life, Ma Su was a loyal general and tactician to Shu Kingdom 蜀国. His military knowledge was incredibly impressive, and Zhu Ge Liang became fast friends with him, often discussing military tactics and matters from dawn till dusk. In fact it was said that a couple of Zhu Ge Liang's military victories were tactics proposed by Ma Su. So trusted was Ma Su that Zhu Ge Liang made Ma Su his very own advisor!
+
+Yet just before Liu Bei 刘备 died, Liu Bei warned Zhu Ge Liang that Ma Su was not as capable as he seems. Zhu Ge Liang chose not to listen, and entrusted Ma Su with an extremely important mission in their Northern expeditions. That was when the turning point occurred, that led to Ma Su receiving capital punishment. What exactly happened in that expedition? Read on to find out!
+
+Character ability 1: Winning Hearts 心战 (xīn zhàn)
+In your action phase, if your number of on-hand cards exceeds your maximum health units, you can view the top 3 cards of the deck. Of these 3, display any number of cards that are of the heart suit, then keep them in your hand. Replace the remainder of the 3 cards (if any) in any order back on the top of the deck. Limited to once per turn.
+
+Character ability 2: Tears of Reluctance 挥泪 (huī lèi) [Enforced ability]
+The player that kills you must discard all his or her cards (both on-hand and equipped) immediately.
+
+Ability's relation to story:
+"Winning Hearts" actually refers to Ma Su's philosophy of winning the hearts and minds of the enemy through non-military means. Yet the ability title is a wordplay to make a connection with the suit of hearts in this game. There does not appear to be any direct correlation between his philosophy and the mechanics of the ability.
+
+"Tears of Reluctance" has strong links to the famed phrase "Zhu Ge Liang sheds tears of reluctance as he executes Ma Su 诸葛亮挥泪斩马谡". It has decent links to the story since losing Ma Su was a big loss to Zhu Ge Liang. Though tragic, this mechanics of this ability is probably more aptly described as "Curses of Frustration" by other players.
+
+Additional info based on story:
+1. Most famous achievement - In the Battle of Jie Ting 街亭之战, Ma Su was to face the formidable Zhang He 张郃 from Wei Kingdom. Despite Ma Su's military knowledge, he made an elementary error of placing his forces atop a hill to gain a vantage point, yet being isolated from his source of water. His follower, Wang Ping 王平, cautioned against his strategy and pointed out the critical flaw, but Ma Su failed to take heed. Sure enough, Zhang He exploited the flaw and cut off Ma Su's troop from the water supply. Once Ma Su's troops were thirsty and weak, Zhang He crushed his enemy easily. Ma Su barely escaped from the battle with his life, but his army was completely decimated. He returned to Zhu Ge Liang in defeat. 
+
+2. Cause of death - The severity of Ma Su's blunder was apparent. The Fort of Jie Ting was strategically important to Shu, and Ma Su's defeat quickly led to further losses of adjacent cities. Zhu Ge Liang was furious that Ma Su, a man of such glib tongue and quick with military wisdom, should so utterly fail. After promising to take care of Ma Su's children, he sentenced Ma Su to death whilst brushing away tears of sorrow. In the minutes that follow, other generals came to plead with Zhu Ge Liang that a talent such as Ma Su be spared, so as not to lose any advantage to the enemy. However Zhu Ge Liang was adamant that Ma Su be executed to abide by the Laws of the military. After the beheading was done, the head of Ma Su was brought to Zhu Ge Liang as proof of his death, and Zhu Ge Liang wailed more than ever. He cried both for losing a close friend, as well as failing to listen to Liu Bei's last words.

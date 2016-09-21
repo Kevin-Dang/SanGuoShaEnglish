@@ -1,0 +1,41 @@
+﻿Mǎ Chāo 马超
+Translated description:
+"Lone horseman that can outmatch a thousand troops 一骑当千 (yì qí dāng qiān)"
+
+Wikipedia Link: Ma Chao Wiki
+
+
+Who is he:
+The valiant general known for his horsemanship and combat ability, Ma Chao is one of Shu Han 蜀汉's 5 greatest generals. Typically depicted riding a horse, he initially led rebellions against Cao Cao 曹操 before eventually finding his place under Liu Bei 刘备. Ma Chao was highly regarded by Zhu Ge Liang 诸葛亮 as an all-rounded civil and military leader.
+
+Character ability 1: "Horsemanship 马术 (mǎ shù)" [Enforced ability]
+You will always be -1 distance in any range calculations.
+
+(This means that when he equips a "-1 horse", he will have a physical distance advantage totaling -2.)
+
+Character ability 2: "Iron Calvary 铁骑 (tiě jì)"
+Whenever you use an ATTACK 杀 on any target player, you can choose to flip over one judgement card from the deck. If the judgement card is of a red-suit (hearts and diamonds), the ATTACK cannot be evaded with DODGE 闪.
+
+Ability's relation to story:
+His "Horsemanship" ability is a given. Both him and Pang De 庞德 are known for their skilled horsemanship from the moment they appeared in the story. "Iron Calvary", however, is probably just an added skill by the game makers so as to tackle the "dodgy" characters, such as Zhang Jiao 张角, Younger Zhu Ge Liang 卧龙诸葛亮 and Zhen Ji 甄姬.
+
+Additional info based on story:
+1. Most famous achievement - Probably the uprising he led against Cao Cao, where he very nearly captured Cao Cao alive. Cao Cao retaliated by executing over 100 of Ma Chao's family and extended family members. Though the uprising gave him prominence and respect from the kingdom of Shu Han, the death of hundreds of his family members due to his uprising would haunt him and disgrace him. It even led to an aborted marriage.
+
+2. Cause of death - Ma Chao succumbed to illness and died. In the story version, Liu Bei dies before Ma Chao, however it seems the actual historical version of events was Ma Chao died earlier and even wrote a parting letter to Liu Bei. 
+
+FAQ and Disambiguation
+
+1. Does Ma Chao's judgement effect take place if he uses DUEL on someone and vice-versa?
+
+Ans: No, the judgement effect does not take place. This is because during a DUEL, there is no need for the opponent to use Dodge.
+
+
+2. Can Iron Calvary be used AFTER the opponent has used a Dodge?
+
+Ans: No it cannot.
+
+
+3. Must Iron Calvary be used immediately after using ATTACK?
+
+Ans: Yes it must. The judgement must come before the opponent uses Dodge.

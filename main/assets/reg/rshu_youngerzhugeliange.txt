@@ -1,0 +1,38 @@
+﻿Younger Zhū Gě Liàng 卧龙诸葛亮
+Translated description:
+"Hidden dragon 卧龙 (wò lóng)"
+
+Wikipedia link: Zhu Ge Liang Wiki
+
+Who is he:
+The second of three versions of Zhu Ge Liang in the card game, Younger Zhu Ge Liang depicts the ridiculously omniscient Zhu Ge Liang in the early days of his career with Liu Bei 刘备. Not to say that his "powers" got any weaker with age, but it does seem like the writer of Romance of Three Kingdoms (Luo Guan Zhong 罗贯中) intended for Zhu Ge Liang to appear with a bang. This was the Zhu Ge Liang that literally frustrated Zhou Yu 周瑜 to death. However since a lot of the background on Zhu Ge Liang will be repeated in all three versions of the character, I'll take the opportunity to talk about his days just prior to joining Liu Bei.
+
+Character ability 1: "Eight Trigrams Formation 八阵 (bā zhèn)" [Enforced ability]
+When no armour is equipped, you will always have the protection of the EIGHT TRIGRAMS 八卦阵 armour by default.
+
+Character ability 2: "Arson 火计 (huǒ jì)"
+All your on-hand cards with a red suit ("hearts" or "diamonds") can be used as BLAZE 火攻 during your action phase.
+
+Character ability 3: "Scient 看破 (kàn pò)"
+All your on-hand cards with a black suit ("clubs" or "spades") can be used as NEGATE 无懈可击.
+
+Ability's relation to story:
+Zhu Ge Liang actively trained the troops of Shu Han 蜀汉 during lull periods. His mastery of military formations gained the respect of many of his adversaries, not least Si Ma Yi 司马懿 in the later years. The Eight Trigrams Formation is one of the most famous that Zhu Ge Liang used very well.
+
+Arson was used by him from the very first battle he oversaw, which resulted in huge losses for the enemy. Later, both him and Zhou Yu came up with the same idea to use fire against Cao Cao 曹操 at the battle at Red Cliffs 赤壁之战.
+
+Of course, Zhu Ge Liang was depicted as so god-damned smart that every teeny weeny little action of his enemies, he understood their intent. His 3rd ability "Scient" plays on the fact that no tool or ploy works on him, since he can see through it all instantly. Smart ass.
+
+Matching weapon: "Feathered Fan 朱雀羽扇 (zhū què yǔ shàn)"
+Though the feathered fan is Zhu Ge Liang's prized item in the story, the weapon in this game is not a perfect match for his abilities. Feathered Fan brings the same advantage to any other player anyways. Besides, with half the entire deck being of red-suited cards, Younger Zhu Ge Liang has more than enough fire attribute offensives as it is!
+
+Additional info based on story:
+1. Most famous achievement - In his younger days, before joining Liu Bei, Zhu Ge Liang was sort of a guru in his hometown. The story depicts the countryside where Zhu Ge Liang lived to be similar to Barney-the-purple-dinosaur land; everyone smiling and singing happily. Though no direct link is made between their state-of-mind and Zhu Ge Liang's presence there, nonetheless it makes for more interesting story-telling to believe that was the case. He would have chosen to stay as a happy farmer for the rest of his life had Liu Bei not paid him repeated visits.
+
+2. Cause of death - Same as the write-up for Elder Zhu Ge Liang 暮年诸葛亮. (How many different causes of death could there be for one person?!)
+
+FAQ and Disambiguation:
+
+1. Does his default Eight Trigrams work against the Blue Steel Blade?
+
+Ans: No it does not.Blue Steel Blade overrides all armor including his default Eight Trigrams.

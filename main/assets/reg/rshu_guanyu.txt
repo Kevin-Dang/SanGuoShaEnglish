@@ -1,0 +1,41 @@
+﻿Guān Yǔ 关羽
+Translated description:
+"Bearded Gentleman 美髯公 (měi rán gōng)"
+
+Who is he:
+He is a god. No kidding. The legend of Guan Yu and his strong sense of chivalry and brotherhood has transcended two millenia and is still widely revered today in Chinese culture. Mention his deity name "Guan Gong 关公" and most elder chinese would relate to you legendary stories of Guan Yu's strong sense fairness, justice and brotherhood. The 2nd eldest among the three sworn brothers, Liu Bei 刘备, Guan Yu and Zhang Fei 张飞, Guan Yu is usually the most rational. Of course, his combat ability is incredible and his weapon the "Green Dragon Crescent Blade 青龙偃月刀" has become the stuff of legends.
+
+
+Character ability: "Warrior Saint 武圣 (wǔ shèng)"
+You can use any card with a "heart" or "diamonds" suit as an ATTACK 杀 card.
+
+Ability's relation to story:
+Like most of Shu Han 蜀汉's "combat" characters in the San Guo Sha 三国杀 card game, there is only a superficial link between their character ability and the story. In the case of Guan Yu, the game makers decided to make it easy for Guan Yu to attack other players. Unlike Zhao Yun 赵云 who has an advantage in dodging, Guan Yu's advantage only lies in attack. Perhaps its the game makers' way of paying tribute to Guan Yu's courage and raw power.
+
+Additional info based on story:
+1. Most famous achievement - I'm putting my personal opinion into this one. Despite all the battles won by Guan Yu, I remember him best for his role in letting Cao Cao 曹操 escape. When nearly all hope was lost for Cao Cao after the huge loss at Battle of Red Cliffs 赤壁之战, he had the ill-fortune to be confronted by Guan Yu. Cao Cao knelt down before Guan Yu and said it was his fortune to die in the hands of the respected Guan Yu, rather than in the hands of some other unknown character. However Guan Yu let Cao Cao go because he was once indebted to Cao Cao, who spared his life in a reversal of fortunes many years before. The key thing to remember here is that Guan Yu is liable for punishment by death for this chivalrous act, yet he still let Cao Cao go. Now that is a classic example of chivalry indeed.
+
+2. Cause of death - Guan Yu was captured by troops from the Kingdom of Sun Wu 孙吴 after his own men deserted him. Guan Yu had severely underestimated his enemies and left the city of Jing Zhou 荆州 poorly guarded. While he was away attacking Cao Ren 曹仁 at Fan Cheng 樊城, the troops of Lu Meng 吕蒙 moved in and captured Jing Zhou. Guan Yu's men, who were mostly from Jing Zhou, deserted him to return to the safety of their family. Guan Yu was then captured at Mai Cheng 麦城. He was executed together with his son Guan Ping 关平 since they refused to surrender.
+
+
+Wikipedia link:
+* Guan Yu Wiki
+
+
+
+FAQ and Disambiguation:
+
+Warrior Saint
+1. Can Guan Yu use an equipped item that has a red suit as ATTACK?
+
+Ans: Yes, with conditions. If the ATTACK to be used requires the item's ability or range, then it CANNOT be used. Eg: the target is distance 5 away from Guan Yu, then Guan Yu cannot use his equipped weapon (assuming red suited +5 distance) as ATTACK since that would mean the weapon's range is forfeited. 2nd Eg: Guan Yu equipped red-suited Zhu Ge Crossbow 诸葛连驽 and has already used an ATTACK card in that turn. He cannot use the Zhu Ge Crossbow card as an ATTACK since that would mean he is using 2 ATTACKS in a turn and he requires the Zhu Ge Crossbow to be equipped when he uses more ATTACK cards.
+
+
+2. If Guan Yu uses a red-suited card (eg: PEACH) to ATTACK Cao Cao 曹操 and causes him damage, does Cao Cao keep the red-suited card that was used? (eg: In which case he gains a PEACH?)
+
+Ans: Yes Cao Cao keeps the red-suited card.
+
+
+3. With regards to a target equipped with Ren Wang Shield 仁王盾, is any red-suited card used as an ATTACK by Guan Yu considered a red-suited ATTACK card?
+
+Ans: Yes. As long as the card is red-suited and used as ATTACK, they are considered red-suited ATTACK cards.

@@ -1,0 +1,22 @@
+﻿Mǎ Dài 马岱
+
+Translated Description:
+"Entrusted during the crisis 临危受命 (lín wēi shòu mìng)"
+
+Who is he:
+This guy has a rather dirty resume, because his biggest credit is in tricking and murdering a "compatriot". Before we get to that, let's talk about his relations to other characters. Ma Dai was the cousin of Ma Chao 马超, though Ma Dai never quite got the fame (or infamy) of his cousin. He served for Shu Kingdom and was more notable during Zhuge Liang 诸葛亮's expeditions.
+
+But enough riff-raff. Let's get to the juicy bit. Zhuge Liang once praised Ma Dai as one of the most loyal to Shu Kingdom. You could say that Zhuge Liang was right, because Ma Dai's loyalty led him to feint friendship with Shu's most famous traitor... Wei Yan 魏延. Ma Dai was part of Zhuge Liang's plot to keep check on Wei Yan as the latter seemed likely to revolt. True enough, Wei Yan turned rebel after Zhuge Liang's death, but Ma Dai seized the opportunity whilst an insider to assassinate the rebel. Give this man a trophy!
+
+Character ability 1: Horsemanship 马术 (mǎ shù) [Enforced Ability]
+In distance calculations between you and other players, you will always be at -1.
+
+Character ability 2: Backstab 潜袭 (qián xí)
+Whenever you use ATTACK 杀 to cause damage to a player within distance of 1, you can flip a judgement card. If the judgement is not hearts, you prevent this damage and instead cause the player reduce his max health units by 1.
+
+Ability's relation to story:
+“Backstab” refers to his killing of Wei Yan. In ROTK, Wei Yan revolted against Shu Han. However, Zhuge Liang predicted that and entrusted a mission to Ma Dai before his death. Ma Dai falsely followed Wei Yan. When Wei Yan shouted out “who dares to kill me?”, Ma Dai slayed him from behind. The ability allows Ma Dai to reduce his enemy’s max. health, so Wei Yan cannot regain his health back by his ability “Insanity Streak”.
+
+However, this ability is buggy and overpowered. It is buggy because the presence of awakening abilities of other characters. Awakening abilities use max health as a sign to indicate whether that character has awakened or not. But with this character, it would be impossible. Also, for Deng Ai 邓艾, Jiang Wei 姜维, Sun Ce 孙策, and Zhong Hui 钟会, their awakening abilities require them to reduce 1 max health when awakening. What happen if Ma Dai has reduced their max health to 1…
+
+The ability is overpowered because of it can reduce max health. As you may observe, 1 max health represents 1 normal ability in most characters. But for Ma Dai, he can reduce their max.health…even Cai Wenji can disable abilities at her death. Also, it is extremely powerful to all characters damage-triggered abilities (because it reduces max.health) and abilities related to lost health (e.g. Sun Jian 孙坚, Zhang Chunhua 张春华 and Wang Yi 王异).

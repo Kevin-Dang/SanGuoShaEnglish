@@ -1,0 +1,40 @@
+﻿Páng Tǒng 庞统
+Translated description:
+"Rising Phoenix 凤雏 (fèng chú)"
+
+Wikipedia Link: Pang Tong Wiki
+
+Who is he:
+The second smartest person of the era, but also probably the ugliest in looks. Pang Tong is supposedly Zhu Ge Liang 诸葛亮's equal in the brains department. Where Zhu Ge Liang is given the nickname "Hidden Dragon 卧龙 (wo long)", Pang Tong is given the nickname "Rising Phoenix 凤雏 (feng chu)". However his hideous looks made some doubt his ability, such as Sun Quan 孙权. Pang Tong is credited as the critical link behind Cao Cao 曹操's spectacular defeat at battle of Red Cliffs 赤壁之战, but he did not live very long to share his talents. Imagine how the world would have been different had Pang Tong lived a decade longer, where both he and Zhu Ge Liang were helping Liu Bei 刘备.
+
+Character ability 1: "Shackle 连环 (lián huán)"
+Every on-hand card that has the suit of "clubs" can be used as IRON SHACKLES 铁索连环.
+
+(This also means that card, regardless of its original function, can perform RE-DRAW 重铸, ie: discarded and replaced with a new card from the deck).
+
+Character ability 2: "Nirvana 涅盘 (niè pán)" [Single-use ability]
+When you are on the brink of death, you can choose to discard all your cards (both on-hand and equipped) and resurrect yourself. You will have 3 units of health after resurrection and can immediately draw 3 cards from the deck.
+
+(This ability can only be used once. A symbol or marking (unspecified in the instructions) should be used to inform all players that "Nirvana" has already been used once.)
+
+Ability's relation to story:
+"Shackles" is a perfect match for Pang Tong since he practically masterminded the shackling of Cao Cao's ships at the battle of Red Cliffs. The shackles turned out to be the key reason for the blaze which wiped out Cao Cao's troops. You can read more about this incident in my write-up on IRON SHACKLES.
+
+"Nirvana" is an interesting ability. Players have commented that the game makers are making up for Pang Tong's early death by allowing him to resurrect in the card game. Then again, a lot of other characters died early but the game makers never gave them resurrection abilities. I mean look at Guo Jia 郭嘉, he was an exceptional advisor and died young. No second-life for him in this game!
+
+Additional info based on story:
+1. Most famous achievement - Tricking Cao Cao into shackling all his ships together prior to the battle of Red Cliffs, such that when Zhou Yu 周瑜 set the ships ablaze, there was no escape! Pang Tong is also credited as the main motivator behind Liu Bei's occupation of the west, which became the stronghold for Shu Han 蜀汉.
+
+2. Cause of death - Pang Tong was ambushed by arrows as he led troops to attack Luo Cheng 罗城. Liu Bei decided to send Pang Tong by the shortcut, where ambushes were to be expected, even though Liu Bei himself was the combat personnel and Pang Tong was an advisor. The location of Pang Tong's death is called Luo Feng Po 落凤坡, which translates to Valley of the fallen phoenix. How apt.
+
+
+FAQ and Disambiguation
+
+1. If Pang Tong is the Ruler, does he get reincarnated with 4 health units or just 3?
+
+Ans: After reincarnation , he gets only 3 units health. But as a ruler, his max health is still 4 units. Therefore he can use one PEACH card to increase to 4 units of health.
+
+
+2. Does Pang Tong gets to pick a new character for his second life?
+
+Ans: No. You must still remain as Pang Tong.

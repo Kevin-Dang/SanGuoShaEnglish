@@ -1,0 +1,62 @@
+﻿Cáo Cāo 曹操
+
+Translated description:
+"Warrior Emperor of the Kingdom of Wei 魏武帝 (wèi wǔ dì)"
+
+Wikipedia link: Cao Cao Wiki
+
+Who is he:
+The "bad" guy. The Machiavellian. The Julius Caesar of Ancient China... or at least that is what the story teller Luo Guan Zhong 罗贯中 wants you to think of Cao Cao. This guy is one interesting character; ruthless, intelligent, user of ploys and ambushes, but yet chivalrous at the same time. He treats his loyal subjects and talents with respect and admiration, yet is paranoid and fearful of assassinations. Perhaps it is due to his "unpolitically correct" way of achieving success (through ploys, ambushes, trickery and murder) that is the cause for his negative portrayal in the story. It is said that the story itself was heavily edited to downplay Cao Cao's accomplishments so as to emphasize Liu Bei 刘备's confucius-styled leadership. Either way, there is really no denying that Cao Cao is one great leader of his time and one of the most famous Chinese historical figures of all time.
+
+Character ability 1: "Villainous Hero 奸雄 (jiān xióng)"
+You can immediately acquire the card (or cards) that resulted in you suffering damage.
+
+Here are some examples of how that works:
+
+Example 1 - When he is the target of ATTACK 杀, Cao Cao can choose not use DODGE 闪, suffer the 1 unit of damage, and acquire the ATTACK card that was used.
+
+Example 2 - When he is recipient of fire damage that has been transmitted via IRON SHACKLES 铁索连环, he receives the card that caused the fire damage even though he was not the initial target.
+
+[Edited 28th Jan 2011] Example 3 (complex scenario) - When he uses DODGE to evade an ATTACK but the attacker has equipped Stone Cleaving Axe 贯石斧 and chooses to discard 2 cards to cause damage anyways, Cao Cao suffers the damage but cannot pick up BOTH of the cards that were discarded to cause the damage. This is because the card that causes the damage is the ATTACK and not the discarded cards. Contrast this to the Serpent Halberd 丈八蛇矛, where the 2 cards used in that instance represents an ATTACK card, and thus Cao Cao can pick up both of those cards if he suffers damage.
+
+Character ability 2: [Ruler ability] "Royal Escort 护驾 (hù jià)"
+You can ask any Wei character 魏将 to use DODGE on your behalf where applicable.
+
+Ability's relation to story:
+"Villainous hero" must be one of the best thought-of abilities in the game. It is not ridiculously powerful or god-like, very useful in the game, and a wonderful fit for Cao Cao's personality in the story. Every time he met defeat, Cao Cao would bounce back and bite the face off his opponents, then convince the enemy generals to surrender into his service. Such was the case of Zhang Liao 张辽, who surrendered to Cao Cao after Lu Bu 吕布 was defeated, then became one of the Kingdom of Cao Wei 曹魏's great generals. It was also mentioned that Cao Cao loves only women who have already been taken, then relish the thought of snatching the woman away from her partner. As for "Royal escort", Cao Cao has had his ass saved countless times by his generals, who always appear just in the nick of time.
+
+Additional info based on story:
+1. Most famous achievement - He set the foundations for the Kingdom of Cao Wei, which became the precursor unifying the whole of China under the rule of Si Ma Zhao 司马昭. Though by that time, Si Ma Zhao had usurped Cao Wei for his own and established the Jin Dynasty of China 晋朝 (AD 265 - 420), nevertheless Cao Cao really was the father of all that groundwork. No Cao Cao, no Jin Dynasty, history would be completely different! Simple as that.
+
+2. Cause of death - Cao Cao experienced endless headaches in his dying days. To cure him, his subjects brought him the most famous doctor of the time, Hua Tuo 华陀, who diagnosed his sickness as some form of rheumatism of the skull. Hua Tuo proposed to hack Cao Cao's head open for surgery, which in the century AD 200 is pretty much insane! Cao Cao, being all paranoid about assassination attempts, tossed Hua Tuo into jail for the suggestion. Without the doctor to cure him, Cao Cao succumbed to the sickness (whatever it was) soon after.
+
+
+FAQ and Disambiguation
+
+1. Can Cao Cao acquire all the cards that caused damage to him such as Raining Arrows (both cards by 
+Yuan Shao), Serpent Halberd (2 cards) and etc.
+
+Ans: Yes he can, as long as those cards are the cause of damage. He cannot pick up cards that we
+discarded” to cause damage, such as Dian Wei’s ability.
+
+
+2. Can Cao Cao pick up any card for his “Villainous Hero 奸雄” ability if he has been damaged by Xia Hou Dun’s “An Eye for an Eye 刚烈” ability?
+
+
+Ans: No he cannot. This is because his Villainous Hero ability only lets him pick up the cards that cause him damage. An Eye For An Eye is a character ability, not a card. Therefore Cao Cao cannot pick up any 
+card.
+
+
+3. Can Cao Cao pick up the ‘’Attack’’ card if  you were to use ‘’Attack’’ on Da Qiao and Da Qiao throws a card to deflect to Cao  Cao?
+
+Ans: Yes he can, provided Cao Cao suffers damage. (ie: if the attack deflected by Da Qiao has been dodged, Cao Cao cannot pick it up)
+
+
+4. Can Cao Cao pick up the original ‘’attack’’ card if you were to use ’’attack’’ on Xiao Qiao and she threw a heart card to deflect damage to Cao Cao?
+
+Ans: Yes he can.
+
+
+5. Does Cao Cao gets to take a card  if he gets struck by Zhang Jiao’s lightning?
+
+Ans: No he does not get to take a card. This is because the damage was caused by an ability ,not a card.

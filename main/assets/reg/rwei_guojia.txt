@@ -1,0 +1,36 @@
+﻿Guō Jiā 郭嘉
+
+Translated description:
+"The oracle who died young 早终的先知 (zao zhong de xian zhi)"
+
+
+Wikipedia link: Guo Jia Wiki
+Who is he:
+It is said that Cao Cao 曹操 would have won the war if Guo Jia had lived longer. In the early days of Cao Cao's expeditions, there were usually more than one advisor by Cao Cao's side, but Guo Jia's analysis of situations and predictions always seemed to be correct. It is a pity that Guo Jia and Zhu Ge Liang 诸葛亮 belonged to two different chronological segments, and thus never had a chance to compete head-to-head. Despite knowing his days were numbered, Guo Jia could accurately predict how the near future would unravel. On realizing that Guo Jia was absolutely right about how things played out even weeks after his death, Cao Cao wept for the loss of this amazing talent. Like Dian Wei 典韦, Guo Jia died much too early and severely handicapped the potential of Cao Cao's army. The game makers of San Guo Sha 三国杀 paid adequate tribute to the brilliance of Guo Jia by making him one of the most powerful and most popular characters in the entire game. A search of player comments on forums turn up numerous praises for Guo Jia, with many declaring him their all-time favorite character to use.
+
+Character ability 1: "Envy of Heaven 天妒 (tiān dù)"
+You can obtain any judgement card that you flip over.
+
+(For example, every time he undergoes judgement for LIGHTNING 闪电 during his turn, he can keep the judgement card that he flipped over. However if he uses ATTACK 杀 on a player that equipped EIGHT TRIGRAMS 八卦阵, Guo Jia cannot keep the judgement card for judgement of EIGHT TRIGRAMS because that card would be flipped over by the target player and not himself.)
+
+Character ability 2: "Bequeathed Strategy 遗计 (yí jì)"
+For every 1 unit of damage that you receive, you can draw 2 cards from the deck. You can then choose to give away one, two, or none of these 2 cards to any player.
+
+Ability's relation to story:
+Brilliant!!! The chinese name for "Envy of Heaven" is called 天妒 and is short for a more common phrase called 天妒英才 (tiān dù yīng cíi). It translates as "heaven is jealous of a person with such immense intellect/skill/potential" and is morbidly used to describe rare talents who died young. Chinese like to think that heaven struck them down out of jealousy. Guo Jia's "Envy of Heaven" ability seems to mock the heavens as he can benefit from heaven's will (judgement cards). "Bequeathed Strategy" is equally apt as it almost re-enacts Guo Jia's contribution to Cao Cao after dying. Read more about the story behind "Bequeathed Strategy" below.
+
+Additional info based on story:
+1. Most famous achievement - Guo Jia's bequeathed strategy to Cao Cao. After Yuan Shao 袁绍 and his sons Yuan Shang 袁尚 and Yuan Xi 袁熙 were defeated by Cao Cao, Guo Jia died of illness. He left Cao Cao a secret strategy that said Yuan Shang and Yuan Xi would flee to join Gong Sun Kang 公孙康 and told Cao Cao not to pursue. Guo Jia predicted that Yuan Shang and Yuan Xi's heads would be sent by Gong Sun Kang as long as Cao Cao did not make any move against Gong Sun Kang. This went against the advice of many of Cao Cao's generals, who felt they should crush the brothers while they were weak. True enough, everything that Guo Jia predicted came true.
+
+2. Cause of death - During the northern expedition to erradicate the Yuan brothers, Cao Cao's army travelled light for speed but was ill-prepared for the terrible weather. Guo Jia fell sick along the journey and was unable to join Cao Cao at the battles. By the time Cao Cao returned after the battle was won, Guo Jia had already succumbed to his illness. He was 37. 
+
+
+FAQ and Disambiguation
+
+
+1. Does Guo Jia’s second ability activate even if he is left with 1 unit of health and has no dodges or peaches ?
+
+Ans: Yes, it activates but only after he is saved from the brink of death. He cannot draw 2 cards until after he is saved.
+
+2. Does Guo Jia gets to draw 6 cards if he is struck by lightning with 1 health left and is saved?
+Ans: Yes , he can draw 6 cards if he is saved from such a disaster.

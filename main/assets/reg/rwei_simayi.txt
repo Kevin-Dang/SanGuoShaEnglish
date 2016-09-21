@@ -1,0 +1,75 @@
+﻿Sī Mǎ Yì 司马懿
+
+Translated description:
+"The Devil with eyes behind his head 狼顾之鬼 (láng gù zhī gǔi)"
+
+(狼顾 means a "cautious wolf" always on the lookout for enemy ambush. It is referring to a legendary ability of Si Ma Yi where he can turn his head around 180 degrees.)
+
+Wikipedia link: Si Ma Yi Wiki
+
+Who is he:
+The cunning. The scheming. The ultimate bad guy. He is the beginning of the end of the Three Kingdoms era. If you have never read Romance of Three Kingdoms, my apologies for the spoiler. We are talking about a man of ambition so great, it transcended two generations after his death before it was achieved. Portrayed as cunning and untrustworthy with promises, Si Ma Yi is practically demonized by the story. No doubt he was the most important military advisor the Kingdom of Cao Wei 曹魏 ever had, time would never dilute his usurper legacy that erased Cao Wei off the face of the planet. As tribute to this incredibly smart yet devious historical figure, the card game has aptly given Si Ma Yi abilities that make him a formidable opponent. Meet the most dangerous character in the entire San Guo Sha 三国杀 card game.
+
+Character ability 1: "Retaliation 反馈 (fǎn kuì)"
+When you receive any damage, you can obtain 1 card (whether on-hand or equipped) from the player who is the source of the damage.
+
+(In most cases, source of damage is the player who is currently in the action phase (that player's turn) that played an offensive move. This is true even if the damage was transmitted through IRON SHACKLES 铁索连环, or deflected of another character such as Xiao Qiao 小乔's "Heavenly Scent 天香" ability.)
+
+Character ability 2: "Demonic Talent 鬼才 (guǐ cái)"
+After any judgement card has been flipped over, you can immediately play one of your on-hand cards to replace the judgement card.
+
+(Note that Si Ma Yi cannot take back the original judgement card. Net effect is Si Ma Yi loses one on-hand card to change the judgement card.)
+
+Ability's relation to story:
+It is generally well-known that Si Ma Yi was a smart and shrewd strategist, but no, he was not smart enough to tinker with heaven's will. The abilities themselves do not reflect Si Ma Yi as well as how these abilities are used during game play. As a "Judgement Tinkerer", Si Ma Yi can just crouch inactively, waiting for judgement cards to appear before he rears his ugly head. This somewhat resembles the life mission of Si Ma Yi as he lay in wait for the right moment, then pouncing on opportunity to usurp an entire Cao Wei kingdom for his own.
+
+Additional info based on story:
+1. Most famous achievement - The man that started the end of the Three Kingdoms era. Si Ma Yi handed down power to his son and grandson, who ultimately concurred all of China to form the Jin Dynasty 晋朝 (AD 265 - 420).
+
+2. Cause of death - Si Ma Yi died of old-age at 72. His son Si Ma Shi 司马师 took over the reigns and strengthened his family's control over Cao Wei, followed by his grandson Si Ma Zhao 司马昭 who united China. 
+
+FAQ and Disambiguation
+
+1. From whom does Si Ma Yi draws a card from the following scenarios?
+
+i . After Si Ma Yi loses a duel with someone
+
+ Ans: The person he is duelling with. With Diao Chan's ability, Si Ma Yi does not draw a card from Diao Chan, but instead the person he was forced to duel with.
+
+ii. After being attacked by a player that he cannot dodge
+
+Ans: The player that attacked him.
+
+iii. If someone plays barbarian or raining arrows and damages Si Ma Yi
+
+Ans: From the player that used those cards. Exception is when Barbarians is used when Meng Huo is around, then Si Ma Yi will pick from Meng Huo.
+
+iii. How about lightning? Does he get a card from the player who played the lightning in the first place?
+
+Ans: No. In this case, he does not pick from anyone.
+
+
+2. Must the card that Si Ma Yi takes from the player be random, a card chosen by the victim, or a card chosen by Si Ma Yi?
+
+Ans: It should be a card chosen by Si Ma Yi. It can either be on-hand or equipped.
+
+
+3. Can Si Ma Yi take the lightning card if he is struck?
+
+Ans: No.
+
+4. Can Si Ma Yi take away  pending judgement cards using his ability?
+
+Ans: Yes he can.
+
+5. Does Si Ma Yi takes cards from Zhang Jiao or the person that attacked Zhang Jiao if he gets damaged by Zhang Jiao's lightning strike?
+
+Ans: From Zhang Jiao,as he is the one who dealt with the damage.
+
+6. Does Si Ma Yi gets to take a card per unit of damage or per instance of damage?
+
+Ans: Per instance. He still gets only 1 card even if he is dealt more than 1 damage in a single attack.
+
+7. Does Si Ma Yi gets to take a card from Xiao Qiao if she deflected damage to him?
+
+Ans: No. This is because the source of damage is not Xiao Qiao.

@@ -1,0 +1,25 @@
+﻿Jiāng Wéi 姜维
+
+Translated description: 
+“The Protégé of the Dragon 龙的衣钵 (lóng dè yī bō)”
+
+Who is he:
+He was to be the ultimate general. Said to have the charisma of Liu Bei 刘备, wisdom of Zhuge Liang 诸葛亮 and fighting ability of Zhao Yun 赵云, Jiang Wei was the only remaining hope for Shu in the dying days of the kingdom. Yet, as history would tell us, Shu was the first of the two major powers to be exterminated, what more while Jiang Wei was General-in-chief. What happened? While many would point to the incapable ruler Liu Shan 刘禅 who did not give Jiang Wei the support he needed, Jiang Wei himself was criticized as being reckless and single-minded. Nonetheless, Jiang Wei was a brilliant general that would truly have done Shu a lot of good had he been born 20 years earlier whilst Zhuge Liang and Liu Bei were still in power. Ultimately, Jiang Wei would be forced to surrender to Wei under instruction from Liu Shan, but his fighting spirit and loyalty would not be extinguished! He would go on to plan a grand coup that would have revived Shu, yet he died in the process. What happened? Read on to find out!
+
+Character ability 1: “Taunt 挑衅 (tiǎo xìn)”
+During the action phase, you can pick a player that is able to strike you using ATTACK 杀. That player must use an ATTACK on you. If the player does not do so, you can discard one of his/her card. Limited to once per turn.
+
+Character ability 2: “Recommence the Legacy 志继 (zhì jì)” [Awakening ability]
+At the start of your turn, if you have no on-hand cards, you must regain 1 unit of health or draw 2 cards, then reduce your maximum health by 1 unit, and permanently acquire the ability “Star Gazing 观星”.
+
+(Note: "Star Gazing" is Elder Zhuge Liang's ability where he can view the top few cards of the deck at the start of his turn)
+
+Ability's relation to story:
+Before Jiang Wei became the leading General of Shu, he was under the command of Fei Yi 费祎. Jiang Wei recommended taking up the offensive against the Wei Kingdom like Zhuge Liang once did, but Fei Yi was dead against the idea. Instead Fei Yi sent Jiang Wei to harass the Wei forces numerous times at the border, probably as a reminder that Shu forces are not sitting idle. This is probably the relation to the ability “Taunt”, and the ability mechanics, though simple, seem well-crafted to suit the ability title.
+
+“Recommence the Legacy” refers to Jiang Wei being seen as Zhuge Liang's most able apprentice, then carrying on his work and aspirations after Zhuge Liang's death. In this aspect, the ability mechanics is a perfect fit. After he is "awakened", Jiang Wei actually takes on the ability of Zhuge Liang and can "Star Gaze" to tell the future. In reality, though, Jiang Wei did not seem to inherit Zhuge Liang's god-like abilities. Furthermore, there is actually a gap in the story since Jiang Wei was never actually Zhuge Liang's disciple. Perhaps the actions taken by Jiang Wei to honor Zhuge Liang's wishes earned him that nickname.
+
+Additional info based on story:
+1. Most famous achievement - The coup that almost saved Shu Kingdom. Once the incapable Liu Shan 刘禅 surrendered, Jiang Wei was also forced to surrender to Zhong Hui 钟会, the rival of Deng Ai 邓艾. Jiang Wei insidiously suggested to Zhong Hui that animosity be conjured between Deng Ai and the defacto Wei ruler, Sima Zhao 司马昭. The plan was successful initially because Zhong Hui himself was ambitious, albeit deluded, and planned to rule all of Wei. The cunning Jiang Wei sat on the bylines and watched as Zhong Hui forged letters that slandered Deng Ai to Sima Zhao. Eventually, Sima Zhao seemingly fell for the ploy and order Deng Ai be captured and executed.
+
+2. Cause of Death - Killed in the ensuing chaos. Sima Zhao was not as naive as Zhong Hui and Jiang Wei expected. Whilst a force was sent to arrest Deng Ai, another secret force was directed personally by Sima Zhao himself, headed straight for Zhong Hui. Zhong Hui knew that Sima Zhao had seen through his plan and had come to crush any new-found power Zhong Hui had at his disposal. The prudent Jiang Wei quickly advised Zhong Hui to kill all the key officers and stake a rebellion but Zhong Hui was slow to act. Once their own officers knew that Zhong Hui planned to exterminate them, all hell broke loose and in the carnage, both Zhong Hui and Jiang Wei were killed.

@@ -1,0 +1,48 @@
+﻿Huáng Zhōng 黄忠
+Translated description:
+"Old but vigorous 老当益壮 (lǎo dāng yì zhuàng)"
+
+Wikipedia link: Huang Zhong Wiki
+
+
+Who is he:
+Quite possibly the oldest general by age in Romance of the Three Kingdoms. By the time of his fatal injury that he sustained in combat, Huang Zhong was already 75 years old. His age is probably exaggerated, much like many of the other details in the story. In fact, no record exists that could determine his age. The legend of Huang Zhong is, therefore, 80% influenced by Romance of the Three Kingdoms and not so much by true history. Nonetheless, Huang Zhong was an incredible general, very powerful in combat and deadly accurate with the bow and arrow. The game makers of San Guo Sha 三国杀 really put his attacking abilities to the extreme! More about his character abilities below.
+
+Character ability: "Fearsome Archer 烈弓 (liè gōng)"
+In the action phase, your ATTACK 杀 cannot be evaded by DODGE 闪 under the following 2 circumstances:
+
+1. The number of on-hand cards of the target player is less than or equal to your attacking range.
+
+2. The number of on-hand cards of the target player is more than or equal to the units of health you have remaining.
+
+With a little extrapolation of the possibilities, you will notice that when Huang Zhong has only 1 unit of health left, any target player he uses ATTACK on cannot DODGE. "Undodgeable" ATTACK by Huang Zhong is therefore possible anytime his health remaining is less than or equal to his attacking range.
+
+Ability's relation to story:
+I wonder if the game makers are helping Huang Zhong make up for his age by giving him such an extreme character ability. Nothing close to this kind of combat prowess (where enemies cannot escape his attacks) is described in the story. A thin link to the story is possible when you consider that Huang Zhong is a celebrated archer. Perhaps the game makers wanted to give this famous archer the advantage by matching his weapon. Read about his matching weapon below.
+
+Matching weapon: "Unicorn Bow 麒麟弓 (qí lín gōng)"
+Okay okay, don't send me hate mail! I know that the 麒麟 is not a unicorn! You can read more about that in the trivia section of the UNICORN BOW post. Anyway, this is Huang Zhong's weapon and it is quite obvious what a huge advantage this weapon gives him. UNICORN BOW has an attacking range of 5, which means when Huang Zhong equips this weapon, your opponent needs to have at least 6 cards on-hand to be able to DODGE your ATTACK! Very few characters can hold that many cards outside of their turn! Off-hand I can only think of Lu Meng 吕蒙 and Cao Ren 曹仁. Do add on other characters by leaving me a comment!
+
+Additional info based on story:
+1. Most famous achievement - Although his biggest credit was killing the Cao Wei 曹魏 general Xia Hou Yuan 夏侯渊 at the battle of Mount Ding Jun 定军山之战, I prefer to think that honor is equally shared with his advisor Fa Zheng 法正.
+
+Instead I feel his most memorable achievement was his chivalry when Guan Yu 关羽 battled him in their first meet. At that time, Huang Zhong was defending the city of Chang Sha 长沙 from the forces of Liu Bei 刘备. Guan Yu was sent to duel with Huang Zhong, both of them ferocious but chivalrous. Huang Zhong purposely shot an arrow that hit Guan Yu's helmet instead of killing him, for he had grown to respect Guan Yu very quickly. Guan Yu killed Huang Zhong's horse in battle, but instead of taking advantage, Guan Yu let Huang Zhong rest and find another suitable horse to do battle again. The next day, Huang Zhong repeatedly took shots at Guan Yu with his bow, but did not load any arrows, as a subtle way of thanking Guan Yu. Eventually, Huang Zhong surrendered to Liu Bei after being rescued by Wei Yan 魏延 after Han Xuan 韩玄 ordered Huang Zhong executed for disloyalty.
+
+2. Cause of death - Huang Zhong was shot by a poisoned arrow in an ambush laid by Pan Zhang 潘璋. This happened after Guan Yu's death and Liu Bei led a campaign against the kingdom of Sun Wu 孙吴 for revenge. Huang Zhong did not die in battle, but his old age caused him to succumb to his wounds later that night.
+
+FAQ and Disambiguation
+
+
+1. Does it matter how many cards the opponents have if Huang Zhong is equipped with the Unicorn Bow?
+
+Ans: No it does not matter. That is because every player will either have 5 cards or less on-hand (smaller/equal to Unicorn Bow's range) or 4 cards or more(greater/equal to Huang Zhong's health). Thus all attacks by him are undodgeable once his unicorn bow is equipped.
+
+
+2. Is there a need for both circumstances  for his ability to be fulfilled ? Or will either do?
+
+Ans: No. If either 1 of the cicumstances is fulfilled, the attack cannot be dodged.
+
+
+3. Does Huang Zhong's ability still work when he is the victim of DURESS outside of his turn?
+
+Ans: No his ability no longer works. This is because his ability only works in the action phase of his turn.

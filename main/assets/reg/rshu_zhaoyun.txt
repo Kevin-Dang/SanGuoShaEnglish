@@ -1,0 +1,51 @@
+﻿Zhào Yún 赵云
+Translated description:
+"The young general 少年将军 (shào nián jiāng jūn)"
+
+Who is he:
+The hunk in Romance of the Three Kingdoms, Zhao Yun is portrayed like the Antonio Banderas of ancient China, complete with sword wielding abilities equal to Zorro (or probably better?). Always the general of Shu Han 蜀汉 that appears to save the day when their need is crucial, Zhao Yun is arguably one of the most well-liked characters in the entire story. If you expect this character to have abilities to be feared in the card game, then you are right.
+
+Character ability: "Dragon Heart 龙胆 (lóng dǎn)"
+All your ATTACK 杀 and DODGE 闪 cards can be used interchangeably.
+
+Ability's relation to story:
+Scant relation to the story, really. We all know Zhao Yun is a really good fighter, so I guess it was natural to make his ability skewed towards attack. But the cool thing about Zhao Yun's "Dragon Heart" ability is he has a much stronger evasive ability than most players. Compared to Guan Yu 关羽 and Zhang Fei 张飞 who can heap loads of attack damage, Zhao Yun has an abnormal amount of ATTACK cards at his disposal but also has an incredible amount of DODGE as well! You kind of get the impression that the game makers want us to think that Guan Yu and Zhang Fei are pure brute strength while Zhao Yun has more dexterity and flexibility.
+
+Additional info based on story:
+1. Most famous achievement - Zhao Yun's rescue of Liu Shan 刘禅 at the Battle of Chang Ban 长板. This story is the stuff of legends. Zhao Yun is separate from Liu Bei 刘备 in the chaos after Cao Cao 曹操 attacks. Liu Bei's generals reported seeing Zhao Yun dash in the direction of the enemy alone, inferring that Zhao Yun has deserted Liu Bei and joined the enemy. Liu Bei would have none of it and believed Zhao Yun must have some plan up his sleeve. True enough, Zhao Yun ran into the enemy to search for Liu Bei's wife and son, Liu Shan, who was missing as well. After finding Liu Shan but not being able to rescue Liu Bei's wife, Zhao Yun dashes back towards Liu Bei, encountering literally thousands of enemy troops alone. One versus a few thousand, Zhao Yun manages to slay over 50 of Cao Cao's generals and hundreds of troops before successfully escaping. When Liu Shan was finally presented back to Liu Bei, Liu Bei tosses the baby on the ground, exclaiming that his son's life was not worth endangering his great general.
+
+2. Cause of death - Zhao Yun died of old age, which was a remarkable feat not to have died in battle in that era. He remained undefeated in battle till his death. Most of the other Shu Han generals were all killed in action.
+
+
+Wikipedia link:
+* Zhao Yun Wiki
+
+
+
+FAQ and Disambiguation:
+
+Dragon Heart
+1. When Zhao Yun has equipped Serpent Halberd 丈八蛇矛, can he use any 2 on-hand cards as DODGE (since interchangeable with ATTACK)?
+
+
+Ans: No. Equipment effects are not interchangeable under Dragon Heart, only the cards themselves.
+
+
+2. When equipped with EIGHT TRIGRAMS 八卦阵, can he choose to activate judgement to flip a red card and use as ATTACK (since interchangeable with DODGE)?
+
+Ans: No. Refer to 1.
+
+
+3. If Zhao Yun uses DODGE as an ATTACK card, will there be any elemental attribute to the ATTACK?
+
+Ans: No. They will be viewed as normal ATTACKs.
+
+
+4. If Liu Bei uses "Rouse"(Shua Characters use ATTACK on his behalf), can Zhao Yun use a DODGE card as ATTACK for him?
+
+Ans: Yes.
+
+
+5. If Zhao Yun equips Eight Trigrams 八卦阵 , can he use it to generate Dodge but used as an Attack?
+
+Ans: The official FAQ answer is no,though this point is still widely contested.

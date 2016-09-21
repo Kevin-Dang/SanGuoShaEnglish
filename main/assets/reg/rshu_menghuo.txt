@@ -1,0 +1,54 @@
+﻿Mèng Huò 孟获
+
+Translated description:
+"King of the Southern Barbarians 南蛮王 (nán mán wáng)" 
+
+Wikipedia link: Meng Huo Wiki
+
+Who is he:
+After the Kingdom of Shu Han 蜀汉 had been established in the west for several years, Meng Huo invaded Shu Han from the south. By this time, Liu Bei 刘备 had died and Zhu Ge Liang 诸葛亮 made all the major decisions as Prime Minister. Meng Huo sarcastically commented that the occupation of Shu Han over the western lands was a barbaric act, thus Meng Huo was going to claim back the land where their ancestors roamed. Zhu Ge Liang decided that an all-out war would exhaust supplies as well as cause too many innocent casualties. He also predicted that even if Shu Han was victorious, the barbarians would retaliate or harbour thoughts of revenge, thus it was best that Meng Huo and his people can be subdued by winning their respect. Meng Huo attacked Shu Han on different occasions but Zhu Ge Liang outsmarted him every single time, capturing Meng Huo but freeing him. Every time Meng Huo blamed external circumstances for his defeat and refused to acknowledge Zhu Ge Liang was the stronger. In the end, Zhu Ge Liang captured Meng Huo 7 times before Meng Huo finally gave in and subdued his people. From then on, the barbarians never invaded Shu Han again and were loyal to Zhu Ge Liang.
+
+
+Character ability 1: [Enforced ability] "The Smoking Gun 祸首 (huò shǒu)"
+The tool card BARBARIANS 南蛮入侵 has no effect on you. You will be the source of any damage caused by the use of BARBARIANS.
+
+(This means any follow-up ability (retaliatory or advantageous) of other characters will target Meng Huo instead of the character who played the card.)
+
+Character ability 2: "Arise Again 再起 (zài qǐ)"
+During the drawing phase, iIf you are not at full health, you can choose to give up the drawing phase and, instead, flip X number of cards from the deck (X being the amount of health you have lost thus far). Of these X cards, you will regain 1 unit of health for every card with the suit of "hearts". The cards with "hearts" will be discarded while the remaining cards that were flipped will be kept into your hand.
+
+Ability's relation to story:
+Meng Huo's abilities have direct links to the story. He is the King of the Barbarians, therefore it is no surprise that his is "the smoking gun" for any damage caused by BARBARIANS. "Arise Again" probably has links to being released by Zhu Ge Liang 7 times. Meng Huo had the "never say die" attitude that pushed him to attack Shu Han repeatedly, despite so many failed attempts.
+
+Additional info based on story:
+1. Most famous achievement - Repeatedly attacking Shu Han, but ultimately was not Zhu Ge Liang's match. Still, most would have given up after the 2nd or 3rd attempt. Meng Huo kept on fighting for 7 times.
+
+2. Cause of death - The story does not further mention Meng Huo after he admits defeat, however historical records state that Meng Huo might have become an official in Shu Han and he died of old-age. Word of caution though, the historical (real) Meng Huo deviates significantly from the story. He was never caught 7 times by Zhu Ge Liang, and he was not even a barbarian, much less the barbarian king.
+
+FAQ and Disambiguation
+
+1. For Meng Huo's ''Arise Again'' ability, can the flipped card be tinkered by Si Ma Yi/ Zhang Jiao?
+
+Ans: No. This is because it is not a judgement card.
+
+
+2. If another player uses BARBARIANS and damages Xia Hou Dun, does Xia Hou Dun's ''An eye for an eye'' ability target the user of the card or Meng Huo?
+
+Ans: It would target Meng Huo.
+
+
+3. Does the player used Barbarians have to use an attack to save himself since Meng Huo is the source of damage?
+
+Ans: No the player who uses the Barbarians card NEED NOT use an ATTACK card for himself.
+USER of the card > The player who uses the barbarians card will never need to use ATTACK to save himself.
+SOURCE OF DAMAGE > The player whom all reward and punishment will go to due to barbarians.
+
+
+4. Must the cards flipped for ''Rise Again'' be shown to everyone?
+
+Ans: Yes. Everyone will get to see all the cards flipped out.
+
+
+5. If Meng Huo is Ruler and someone uses BARBARIANS and kills the Loyalist, must Meng Huo discard all his cards?
+
+Ans: Yes

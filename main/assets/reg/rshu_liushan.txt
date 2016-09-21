@@ -1,0 +1,30 @@
+﻿Liú Shàn 刘禅
+
+Translated description: 
+"The King with a Laissez-faire Destiny 无为的真命主 (wú wéi dè zhēn mìng zhǔ)"
+
+Who is he:
+Likely one of the most despised characters in the entire era, Liu Shan is the son and successor of Liu Bei 刘备. He took over the reins of the Shu Kingdom from an early age of 16 (the year that Liu Bei died), and is infamous for his inability as a ruler... or at least that is what the story wants us to think. There was a huge chunk of history missing between the years Liu Shan first ruled Shu till the fall of the kingdom 40 years later. In the absence of recorded facts, myths and rumours have not been kind to Liu Shan and painted a picture of an indulgent and indecisive ruler. Ultimately, the kingdom of Shu so painstakingly created by Liu Bei, Zhuge Liang 诸葛亮 and gang, was destroyed during Liu Shan's reign. Legend has it that Liu Shan's intellect was compromised when his own father threw the baby Liu Shan on the ground! Why would Liu Bei do such a thing? Read on to find out!
+
+Character ability 1: "Relish 享乐 (xiǎng lè)" [Enforced ability]
+Whenever other player targets an ATTACK 杀 at you, he/she must discard a basic card, or that ATTACK has no effect on you.
+
+Character ability 2: "Devolution 放权 (fàng quán)"
+You can skip your action phase. If you do so, you can discard an on-hand card at the end of your turn and let another player go an extra turn.
+
+Character ability 3: "Eiron 若愚" [Ruler ability] [Awakening ability] 
+At the start of your turn, if your health is the least or among the least, you must raise your maximum health by 1 unit, regain 1 unit of health and permanently acquire get the ability "Rouse 激将".
+
+(Note: "Rouse" is Liu Bei's Ruler ability, where Shu characters can use an ATTACK on his behalf.)
+
+Ability's relation to story:
+"Relish" refers to Liu Shan’s lifestyle. Liu Shan was interested in playing and having fun, but never in politics. He continued to relish his material wealth and abundance even after the downfall of Shu. However, some say his indulgent lifestyle was all just a ploy to keep him away from danger. Even though he was captured by Wei forces, he was given nobility in Wei's courts and allowed to enjoy his final years in peace. The mechanics of this ability cleverly shields Liu Shan from ATTACKS, allowing him (you) to stay safe and happy.
+
+"Devolution" refers to his political strategies. He allowed his trusted officials to handle all state affairs, regardless of their capability. When he gave the power to wise people like Zhuge Liang and Jiang Wei 姜维, the Shu kingdom was efficient and strong. However, it proved to be a mistake to give such powers to Huang Hao 黄皓, the corrupt and incapable eunuch who Liu Shan trusted. The Shu kingdom quickly became chaotic, and ultimately crumbled. The game mechanics allows Liu Shan to "devolute" his action phase, granting an extra turn to another player that you trust. Don't make the same mistake as Liu Shan! Watch out for the defectors!
+
+"Eiron" is interesting. It comes from the Chinese phrase “大智若愚 (still-water runs deep, or the smartest people usually seems the dumbest)”. Although Liu Shan was thought to be an incompetent leader, some historians thought he was just feinting the fool. When Liu Bei was still alive, Zhuge Liang praised Liu Shan as benevolent, clever and receptive. Some historians also believe that when Sima Zhao 司马昭 invited him to a banquet (the banquet that became the basis of ACEDIA 乐不思蜀), Liu Shan played the fool without ambition so as to protect himself. Sadly, whether he really was a fool or a cunning actor, we will never know. In this game ability, however, Liu Shan need not feign the fool forever, but can unveil his disguise as a powerful leader as capable as Liu Bei.
+
+Additional info based on story:
+1. Most famous achievement - Losing his "brain cells" when Liu Bei tossed him. Ok perhaps that's not exactly an achievement, but it's still very significant in popular folklore. At the battle of Chang Ban 长板之战, Zhao Yun 赵云 risked life and limb to rescue the baby Liu Shan from Wei forces. When Liu Bei saw the wounds that his beloved general suffered to save his son, Liu Bei tossed his baby to the ground and proclaimed "To preserve that suckling I very nearly lost a great general!" It is said that Liu Shan suffered a concussion as a result of Liu Bei's over-drama, and hence became "stupid" for the rest of his life.
+
+2. Cause of death - Old age. After living in captivity in Wei, Liu Shan never did think much about his own kingdom that he lost. All he seemed to care about was living a carefree life and having ample play-time. Thus Liu Shan was never again regarded as a threat and he was left to while away his remaining 8 years of his life under soft-captivity. He was aptly given the title "The Duke of Peace and Comfort 安乐公". Because of this, he has become almost synonymous with the sin of Acedia. He was aged 64 when he died.

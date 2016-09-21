@@ -1,0 +1,56 @@
+﻿Zhù Róng 祝融
+
+Translated description:
+"The Savage Queen 野性的女王 (yě xìng dè nǚ wáng)"
+
+Wikipedia link: Zhu Rong Wiki
+
+Who is she:
+The only female in the entire Romance of Three Kingdoms story to ever take part in battle, Zhu Rong is one fearsome woman. Not only was she brave, she was also capable in combat and intelligent. Wife of the Barbarian King, Meng Huo 孟获, she led an army to invade Shu Han 蜀汉 after her husband was cowed by Zhu Ge Liang 诸葛亮's advancing troops. She did so well in battle, in fact, that she captured 2 of Shu Han's generals; Zhang Yi 张嶷 and Ma Zhong 马忠. Her next opponents were the highly decorated generals Zhao Yun 赵云, and Wei Yan 魏延. Both these generals fled without much of a fight, but Zhu Rong smelled a rat and did not give chase. She was no fool as Shu Han had a trap set for her indeed. Yet when Wei Yan turned back to hurl insults at her, her emotions got the better of her and she gave chase. She fell into Shu Han's trap and was captured. By then, she had already left a deep impression as a woman not to be messed with.
+
+
+Character ability 1: [Enforced ability] "Giant Elephant 巨象 (jù xiàng)"
+The tool card BARBARIANS 南蛮入侵 has no effect on you. When any other player uses BARBARIANS and the card's effects are concluded, you will acquire the BARBARIANS card that was used.
+
+Character ability 2: "Fearsome Blade 烈刃 (liè rèn)"
+Whenever your ATTACK 杀 successfully damages your target player, you can choose to "Points Duel" with that same target player. If you win the Points Duel, you gets to take 1 card (on-hand or equipped) from the target and keep for yourself.
+
+Ability's relation to story:
+Contrary to what the game makers want you to conclude, Zhu Rong did not ride on a "Giant Elephant". That privilege was reserved for King Mu Lu 木鹿大王, an ally of the Southern Barbarians. Zhu Rong is good at taming elephants and use them in war, as well as calling them back after war.
+
+"Fearsome Blade" could be referring to Zhu Rong's incredible knife throwing skills. It is said that she never misses at her throwing. Of course, it also has little to do with the ability mechanics of grabbing a card from the opponent. It is probably just paying tribute to her skill.
+
+Additional info based on story:
+1. Most famous achievement - Riding out to attack Shu Han and capturing Zhang Yi and Ma Zhong. Significant as this was for showing her ability, this entire scene was described in only 1 paragraph in the story.
+
+2. Cause of death - Unknown. Zhu Rong is fictional character that the story teller added for effect. There is no record of her existing and definitely no record of her death. Thus with the closing of the chapter on Zhu Ge Liang subduing Meng Huo, no more mention is made of Zhu Rong.
+
+
+FAQ and Disambiguation
+
+
+1. If Cao Cao is damaged by a BARBARIANS card, who gets the card? Zhu Rong or Cao Cao?
+
+Ans: Cao Cao will get the card. This is because Zhu Rong only gets the card after all effects have been concluded while Cao Cao gets any card that causes him damage immediately.
+
+
+2. Is it possible to create a loop between Cao Cao and Zhu Rong using BARBARIANS card?
+
+Ans: Yes.
+
+Loop start: Any player uses barbarians. Cao Cao chooses to suffer 1 damage, and picks up the barbarians card. This takes precedence over Zhu Rong since he can pick it up immediately once he suffers damage where as Zhu Rong needs to wait till all effects are concluded.
+
+Loop propagation 1: Cao Cao uses the barbarians he picked up. After all effects concluded, Zhu Rong picks the barbarian card.
+
+Loop propagation 2: Zhu Rong uses the same barbarians card she picked up. Cao Cao suffers damage again and picks up the card.
+
+Loop End:
+
+1. Cao Cao does not pick up the card(running low on health or forcefully negated by someone else.
+2, Barbarians card gets dismantled or stolen or used in another form.
+3. Game is over (objective met)
+
+
+4. If Zhu Rong attacked one of the Qiao sisters and they passed the attack off to someone else, would Zhu Rong points-duel the new target, or the intended Qiao?
+
+Ans: Zhu Rong's ability should be used on the character that suffers the damage. Which means the Qiao's will not be affected by the ability, but instead the player whom she passed the damage to will be subjected.

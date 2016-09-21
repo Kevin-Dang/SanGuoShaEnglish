@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SanGuoShaEnglish</string>
+    <string name="title_activity_character_info">CharacterInfo</string>
+    <string name="regButton">Regular Mode</string>
+    <string name="kingdomButton">Kingdom Wars</string>
+</resources>

@@ -1,0 +1,49 @@
+﻿Wèi Yán 魏延
+Translated description:
+"The blood-thirsty lone-wolf 嗜血的独狼 (shì xuě dè dú láng)"
+
+Wikipedia link: Wei Yan Wiki
+
+Who is he:
+We all know a rebellious kid back in school who just refused to listen to instructions. Wei Yan is a competent Shu Han 蜀汉 general who was similar to that kid. Though not an outright rebel, Wei Yan always had that streak in him that made him difficult to lead. If there was a phrase that he would say, it would probably go along the lines of "Why should I (bla bla)...". In true dramatic fashion, Wei Yan became the "bad guy" when he revolted against Zhu Ge Liang 诸葛亮 and Shu Han. In today's world, he would probably make a pretty successful entrepreneur!
+
+Character ability: "Insanity Streak 狂骨 (kuáng gǔ)" [Enforced ability]
+Whenever you cause damage to any player within physical range of 1, you regain 1 unit of health for every 1 unit of damage caused.
+
+(Taking this to the extreme, Wei Yan can regain 4 units of health if he has equipped "-1 horse", uses BARBARIANS 南蛮入侵, and the 4 players to his immediate left and right all suffer damage. Since this is an enforced ability, he cannot choose not to absorb health.)
+
+Ability's relation to story:
+A vampirical character is fun to have in a game, though there is no mention of any blood-sucking characters in Romance of the Three Kingdoms. Of course, Wei Yan was never a vampire and wasn't even portrayed anywhere near one. So this ability is purely just for gaming sakes.
+
+Additional info based on story:
+1. Most famous achievement - The rescue of Huang Zhong 黄忠 from execution at the city of Chang Sha 长沙. Wei Yan got pissed off by Han Xuan 韩玄's distrust of Huang Zhong and decided to take matters into his own hands. He killed Han Xuan, rescued Huang Zhong, then surrendered the city to Liu Bei. Huang Zhong went on to become one of Liu Bei 刘备's most important generals. If not for Wei Yan, there would be no legend of Huang Zhong.
+
+2. Cause of death - After Zhu Ge Liang died, Wei Yan openly revolted against Shu Han. Zhu Ge Liang, being all godly and smart, knew that Wei Yan was going to revolt once he died. Therefore he tipped off Wei Yan's partner Ma Dai 马岱, and laid a trap. In the midst of open revolt, Wei Yan challenged Shu Han's forces and shouted "Who dares to kill me?". Ma Dai happily decapitated him from behind.
+
+
+FAQ and Disambiguation
+
+1. If Wei Yan uses BARBARIANS and everyone who is in play is damaged, will Wei Yan be able to heal himself through his ability?
+
+Ans: Yes, but only from those within his physical range on his left and right.
+
+
+2. Would Wei Yan heal himself if he uses Fire/Lightning attack on a player that is shackled to other characters?
+
+Ans: Yes he would ONLY if the ATTACK successfully cause damage to a player within a range of 1.
+
+
+3. Does Wei Yan's ability still apply if he causes damage to himself?
+
+Ans: Yes, because he falls within his own physical range of 1. See next question for more details.
+
+
+4. If Wei Yan attacks Xiao Qiao and she transfers the damage back to Wei Yan, how should this be resolved?
+
+Ans: Follow this sequence below:
+
+1. Wei Yan damage Xiao Qiao (eg: 2 units)
+2. She transfers back to Wei Yan.
+3. Wei Yan suffers his own damage first.(lose 2 units) IMPT! If Wei Yan in on the vrink of death, he must be rescued first before step 4 activates.
+4. Wei Yan regains 2 units of health due to his ability.(total, no loss in health)
+5. Wei Yan draws cards for Xiao Qiao's deflect.Number of cards calculated based on his health after step 4.

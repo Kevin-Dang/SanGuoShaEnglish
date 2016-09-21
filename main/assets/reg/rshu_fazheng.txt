@@ -1,0 +1,42 @@
+﻿Fǎ Zhèng 法正
+
+Translated Description:
+The Wind beneath Shu Kingdom's Wings 蜀汉的辅翼 (shǔ hàn dè fǔ yì)
+
+Note: 辅翼 actually means "wings that support".
+
+Who is he:
+Some say he's a mercenary that cares more for his own benefits. Others say he is loyal and steadfast in his support of Liu Bei 刘备. Yet everyone would agree that Fa Zheng is one talented and intelligent individual. To put things into perspective, the true roles of Zhu Ge Liang 诸葛亮, Pang Tong 庞统 and Fa Zheng needs to be clarified. Though Zhu Ge Liang is widely celebrated for his god-like intellect, history records show that he was more a brilliant minister and statesman than a strategist. Pang Tong and Fa Zheng, on the other hand, are the true thinkers and conjurers. Pang Tong and Fa Zheng never did work together though. By the time Fa Zheng joined Shu Kingdom, Pang Tong was already dead.
+
+So who exactly is Fa Zheng and how did he end up joining Liu Bei? Fa Zheng was one of the key personnel responsible for Liu Bei invading the western state of Xi Chuan 西川 that set up the Shu Kingdom. Fa Zheng worked closely with Zhang Song 张松 (the person responsible for giving the Atlas of Shu to Liu Bei) and was the brains behind the ploy that supplanted Liu Zhang 刘璋 with Liu Bei. In the time after, Fa Zheng was so highly regarded by Liu Bei that Liu Bei gave Fa Zheng something that he never gave any other Shu loyal.
+
+What did Liu Bei give to Fa Zheng that was so unique? Read on to find out!
+
+
+[2011 Old version]
+Character ability 1: Reciprocation 恩怨 (ēn yuàn) [Enforced ability]
+Whenever any other player regains your health by 1 unit, that player can draw 1 card. Every instance that any other player deals you damage, that player must give you an on-hand card of the "hearts" suit, or else that player will lose 1 unit of health.
+
+Character ability 2: Artifice of the Masses 眩惑 (xuàn huò)
+In your action phase, you can give one on-hand card with the suit of "hearts" to any other player, then take any 1 card from that player and immediately give it to another player. Limited to one use per turn.
+
+(Note: For "Artifice", after you take 1 card from the player, you can choose to keep it in your on-hand cards. The words "give it to another player" includes yourself.)
+
+[2012 New version]
+Character ability 1: Reciprocation 恩怨 (ēn yuàn) 
+Whenever you receive 2 or more cards from another player, you can allow that player to draw 1 card. Whenever you have received 1 unit of damage, you can make the source of the damage give you 1 on-hand card, or he/she loses 1 unit of health.
+
+Character ability 2: Artifice of the Masses 眩惑 (xuàn huò) 
+In the drawing phase, you can forgo drawing cards and force another player to draw 2 cards, then let that player use an ATTACK on another player of your choice that is within his/her attacking range. If the player does not abide by your instructions, you will receive those 2 cards that the player drew.
+
+Ability's relation to story:
+The ability "Reciprocation" is supposed to reflect Fa Zheng's mercenary tendencies, where he will readily reciprocate in kind or with harm to whomever shows him the same. This is debatable though, as the evidence of that personality trait just isn't overwhelming. So even though there is a link to the story, its the story itself that might be somewhat corrupted.
+
+"Artifice of the Masses" has its roots in a particular story, which took place after Liu Bei overthrew Liu Zhang at conquered the West. Near the dying days of Liu Zhang's rule, one minister of Liu Zhang, known as Xu Jing 许靖, decided to surrender early to defect to Liu Bei. Unfortunately Xu Jing was unable to carry out his defection as planned. After Liu Zhang was overthrown, Liu Bei decided not to retain Xu Jing because of his display of cowardice and disloyalty. But Fa Zheng decided to intervene. In truth, Xu Jing was a well known person but supposedly average in capability. For Liu Bei not to employ Xu Jing would be sending the message that Liu Bei does not value capable men. Thus Fa Zheng insisted that Liu Bei retain Xu Jing, despite his unstellar abilities, so as to pull a hoax on the masses and create the illusion that Liu Bei treasures his human talents.
+
+How does the game mechanics of "Artifice" link to the story? Well... there isn't much of a link! The original ability creator mentioned that this ability mirrors Fa Zheng's use of trickery and confusion to fool everyone else. A fantastic ability for the Defector to use, though it was little to do with history.
+
+Additional info from the story:
+1. Most famous achievement - The battle of Mount Ding Jun 定军山之战 where he assisted Huang Zhong 黄忠 in defeating Xia Hou Yuan 夏侯渊. In that battle, Huang Zhong had set up his camp at a higher vantage point than Xia Hou Yuan, which pretty much frustrated Xia Hou Yuan enough to launch an assault. Fa Zheng advised Huang Zhong not to advance, but to simply hold his ground till he gives the signal. When Xia Hou Yuan's forces became weaker after failing to penetrate Huang Zhong's defenses, Fa Zheng gave Huang Zhong the signal to strike, where Huang Zhong brought down Xia Hou Yuan with one swift strike.
+
+2. Cause of death - Fa Zheng died from an illness in the year 220 AD. He was only 34 years old. Liu Bei was so devastated by the loss of Fa Zheng that he wept for days. Liu Bei then decided to do something which he has never done before, and would never do again. Liu Bei conferred on Fa Zheng the only posthumous title he has ever given anyone. "The Winged Marquis 翼侯" became Fa Zheng's posthumous title, which is related to the translated description at the top of this write up.

@@ -1,0 +1,49 @@
+﻿Xú Shù 徐庶
+
+Translated Description:
+The Loyal Gallant 忠孝的侠士 (zhōng xiào dè xiá shì)
+
+Who is he:
+By now you probably know how significant Zhu Ge Liang 诸葛亮 was to Liu Bei 刘备 and the entire era. Yet if not for Xu Shu, Zhu Ge Liang would probably still be a simple scholar residing in peaceful solitude. Xu Shu was one of the friends of the mysterious Si Ma Hui 司马徽 and was Liu Bei's first military advisor. In his first military role for Liu Bei, Xu Shu helped crush Cao Ren 曹仁's forces and sent Cao Ren weeping back to Cao Cao 曹操 in shame. Upon knowing that Liu Bei has found a formidable advisor, Cao Cao made plans to entice Xu Shu over to Wei Kingdom 魏国.
+
+Did Cao Cao succeed? Did Xu Shu betray Liu Bei and hop over to Wei Kingdom?
+
+As you can see, Xu Shu's character colours are in blue, representing that he belongs in the Wei camp. But strangely, his allegiance is Shu 蜀, as can be seen in the red 蜀 character in the upper left corner and his red life units. This is the ONLY character in the entire SGS game that has this abnormal colour coding.
+
+Why is this the case? Read on to find out!
+
+[2011 Old version]
+Character ability 1: Silence 无言 (wú yán) [Enforced ability]
+With the exception of Time-delayed tool cards, all other tool cards used by you have no effect on all other players. Similar tool cards used by all other players have no effect on you.
+
+Character ability 2: Dragon's Advocate 举荐 (jǔ jiàn)
+In the action phase, you can discard up to 3 cards, then allow 1 other player of your choice to draw an equal number of cards from the deck. If you discard no less than 3 cards of similar type (basic, tool card, equipment card), you regain 1 unit of health. Limited to once per turn.
+
+[2012 New version]
+Character ability 1: Silence 无言 (wú yán) [Enforced ability]
+All damage caused by, or received from, tool cards is prevented.
+
+Character ability 2: Dragon's Advocate 举荐 (jǔ jiàn)
+When the ending phase of your turn begins, you can discard 1 non-Basic card (ie: Tools cards, equipment cards, etc). If you do so, you let another player choose 1 of the following 3 possible actions:
+
+1. Draw 2 cards.
+
+2. Regain 1 unit of health.
+
+3. Flip over the character card such that it faces right-side up, and rotated in the vertical orientation (ie: chains are broken).
+
+Ability's relation to story:
+The concepts of both ability are related closely to the story, however the mechanics are not congruent. "Silence" mirrors Xu Shu's refusal to offer Cao Cao any advice whatsoever after hopping over to Wei Kingdom. However it is clear that the mechanics of this ability provides a high level of immunity against all other characters, and not just against Cao Cao. Besides, Xu Shu refusing to advise Cao Cao almost got him killed instead of offering him protection.
+
+Xu Shu never offered any advices to Cao Cao(cannot use TOOL CARDS against others). In RoTK, Xu Shu found out that Pang Tong wanted to shackle Wei’s ships to burn them all, but he does not remind Cao Cao. Instead, he stayed away from the battlefield to keep himself safe from the fire, so he is immune to other players’ TOOL CARDS. 
+
+I gave the ability translation "Dragon's Advocate" a slight twist. The direct translation of 举荐 means "to recommend". But put into the context of the ROTK story, Xu Shu made one of the most important recommendations of all chinese history: he recommended Zhu Ge Liang and Liu Bei to each other. At that time, Zhu Ge Liang was known by his moniker "Sleeping Dragon 卧龙", thus the name of this ability deserves the Dragon prefix.
+
+Similar to "Silence", the "Dragon's Advocate" ability does have its links to the story. Discarding your cards and allowing another player to draw mirrors Xu Shu's departure from Liu Bei (and withholding his ability thence forth) while creating an opportunity for Zhu Ge Liang. However this ability is not specific towards any character related to the story (such as Liu Bei, Zhu Ge Liang or Cao Cao). Regaining 1 unit of health is completely unrelated to the story/
+
+Additional information based on story:
+1. Most famous achievement - Getting tricked by Cheng Yu 程昱 to leave Liu Bei and join Cao Cao. Cheng Yu was one of Cao Cao's advisors and was tasked to entice Xu Shu over to Wei Kingdom. Knowing that Xu Shu is a very filial son, Cao Cao summoned Xu Shu's mother and wanted to win her over, so that she could convince Xu Shu to hop over to his side. Unexpectedly, Xu Shu's mother cursed and insulted Cao Cao, so much so that Cao Cao ordered her executed for her insolence. Cheng Yu quickly intervened and instead ask Cao Cao to treat her like a guest. Cheng Yu then wrote a false letter, in it Xu Shu's mother uses loneliness and old age to convince Xu Shu to return to her side, which happens to be in the Wei Kingdom. Xu Shu reluctantly decides to leave Liu Bei and thus went over to Cao Cao's camp.
+
+However, upon seeing her son arrive in Wei Kingdom, Xu Shu's mother was enraged! She repeatedly scolded Xu Shu for being so stupid as to have fallen for such a simple ploy, at the same time giving up the opportunity to serve a noble such as Liu Bei. She leaves the room in anger, while Xu Shu ponders in disappointment. Within minutes, a maid alerts Xu Shu to terrible news. In a final act of defiance, Xu Shu's mother hangs herself, and thus Xu Shu is deeply overcome with sorrow. Although he is officially with Wei Kingdom, he never offered any advice to Cao Cao in his time there.
+
+2. Cause of death - Unknown. The widely accepted view is that Xu Shu died of either old age or sickness. There was no mention of him dying in battle or anything honorary. In fact ever since his mother's death, Xu Shu received very little attention due to his reclusion.
